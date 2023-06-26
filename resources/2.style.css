@@ -1,0 +1,55 @@
+body{
+ margin: 0%;                           
+}
+.header{
+  text-align: center;
+  padding: 10px;
+  background-color:#BFCFFF ;
+  font-style: italic;
+  color:#0000FF;                           
+}
+.navbar{
+ overflow:hidden;
+ background-color: aliceblue;                             
+}
+.navbar a{
+ text-decoration: none; 
+ color: #7399fa;
+ padding: 10px;
+ text-align: center; 
+ float: left;
+ display:block;                           
+}
+.navbar a:hover{
+ background-color:rgb(218, 236, 248);
+}
+.h2-left{
+ text-align: center;
+ font-style: italic;
+ color: #4475f1;                            
+}
+.leftPanel{
+ float: left;
+ width: 50%;                             
+}
+.leftPanel img{
+ width: 80%;                              
+}
+.rightPanel{
+ float: right; 
+ width: 50%;                            
+}
+.h2-right{
+ text-align: center;
+ font-style: italic;
+ color: #4475F1;
+}
+.rightPanel img{
+ width: 80%;
+ float: right;                             
+}
+.rightPanel p2{
+ width: 80%;                             
+}
+
+
